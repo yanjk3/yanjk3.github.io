@@ -1,8 +1,8 @@
 
-- **Dean's List (All Semester)** at University of Minnesota Twin Cities.
+- **2024 Community Basketball Game Champion & Three-Pointer King**
 
-- Special Corporate Scholarships, 2023. **(1/30)**
+- [**ACM-MM' 24 Best Paper Nomination**](https://2024.acmmm.org/awards)
 
-- School Special Academic Scholarship, 2023.**(1%)**
+- **ICPR' 22 Best Industrial Research Paper Award Candidate**
 
-- First-Class Academic Scholarship, 2022.**(8%)**
+- **2021 SYSU-CSE Basketball Game Champion**
