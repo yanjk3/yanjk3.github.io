@@ -17,8 +17,11 @@ Afterwards, I joined [Insta360](https://www.insta360.com/), a vibrant intelligen
 #### Education
 
 🕒 2017.09 - 2024.06
+
 📍 Sun Yat-sen University
+
 🎓 Bachelor & Master of Computer Science
+
 🔍 Multi-modal Learning, Self-supervised Learning, Object Detection, Person Re-indentification...
 
 #### Chatter
