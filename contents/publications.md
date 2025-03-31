@@ -1,5 +1,7 @@
 For more information, please refer to my [Google Scholar]("https://scholar.google.com.hk/citations?user=QMm29SwAAAAJ&hl=en").
 
+- S. Fu, **J. Yan**, Q. Yang, X. Wei, J. Meng, X. Xie, W-S. Zheng. A Hierarchical Semantic Distillation Framework for Open-Vocabulary Object Detection. **In TMM, 2025**. [[ArXiv]](https://arxiv.org/abs/2503.10152) [[Code]](https://github.com/iSEE-Laboratory/HD-OVD)
+
 - S. Fu, Q. Yang, Q. Mo, **J. Yan**, X. Wei, J. Meng, X. Xie, W-S. Zheng. LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models. **In CVPR 2025**. [[ArXiv]](https://arxiv.org/abs/2501.18954) [[Code]](https://github.com/iSEE-Laboratory/LLMDet)
 
 - S. Fu, **J. Yan**, Q. Yang, X. Wei, X. Xie, W-S. Zheng. Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models. **In NeurIPS 2024**. [[ArXiv]](https://arxiv.org/abs/2410.19635) [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bf7262e692f3a5c7d676e9e06a1d919a-Abstract-Conference.html) [[Code]](https://github.com/iSEE-Laboratory/Frozen-DETR)

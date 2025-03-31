@@ -4,7 +4,7 @@
 
 
 #### News
-
+* [02/2025] One paper about open-vocabulary detection has been accepted to TMM 🎉🎉🎉
 * [02/2025] One paper about enhancing detectors with LLMs has been accepted to CVPR'25 🎉🎉🎉
 
 
